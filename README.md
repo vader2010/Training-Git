@@ -3,17 +3,11 @@
 ---
 
 add your name to this file below:
-<<<<<<< HEAD
-Michael Cutsail
 
-enter a fun fact about yourself below:
-I like cats
-=======
 Michael C
 
 enter a fun fact about yourself below:
 I don't have a dog
->>>>>>> 1426fa1 (Initial commit for feature1)
 
 ---
 
