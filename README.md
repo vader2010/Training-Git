@@ -3,10 +3,11 @@
 ---
 
 add your name to this file below:
-Michael Cutsail
+
+Michael C
 
 enter a fun fact about yourself below:
-I like cats
+I don't have a dog
 
 ---
 
